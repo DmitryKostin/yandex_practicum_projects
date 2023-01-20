@@ -1,0 +1,2 @@
+Новый проект
+https://nbviewer.org/github/DmitryKostin/yandex_practicum_projects/blob/main/12_final_ab_test_analysis/final_ab_test_analysis.ipynb#table_of_contents
